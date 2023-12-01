@@ -11,10 +11,10 @@
 ## GitHub Stats
 
 <p float="left">
- <!--> <img height="160em" alt="GitHub Stats" src=" https://github-readme-stats.vercel.app/api?username=pabloaugusto&theme=merko&show_icons=true" /> -->
-<img height="160em" alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pabloaugusto&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&icon_color=a9dc76&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=prs" /> -->
-  &nbsp;&nbsp;&nbsp;
- <!-- <img height="160em" alt="Most Used Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pabloaugusto&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" /> -->
+ <img height="160em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pabloaugusto&theme=merko&show_icons=true" /> -->
+
+&nbsp;&nbsp;&nbsp;
+
   <img height="160em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloaugusto&theme=merko&langs_count=8&layout=compact" />
 </p>
 
@@ -22,11 +22,11 @@
 
 Languages & Frameworks:
 
-![languages and frameworks](https://skillicons.dev/icons?i=html5,css,js,php,py,sql,bash,powershell,md,ts)
+![languages and frameworks](https://skillicons.dev/icons?i=html,css,js,php,py,bash,powershell,md,ts)
 
 Tools:
 
-![tools](https://skillicons.dev/icons?i=vscode,figma,git,github,githubactions,docker,stackoverflow,vercel,devto,cloudflare,mysql,nginx,postmanlinux,au,ai,ps,pr,discord,instagram,linkedin)
+![tools](https://skillicons.dev/icons?i=vscode,figma,git,github,githubactions,docker,stackoverflow,vercel,devto,cloudflare,mysql,nginx,postman,linux,au,ai,ps,pr,discord,instagram,linkedin)
 
 ## Latest Articles
 
