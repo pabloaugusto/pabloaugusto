@@ -29,7 +29,7 @@ Tools:
 ## Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Google Analytics 4 &lpar;GA4&rpar; x AMP](https://pabloaugusto.com/google-analytics-4-ga4-amp/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Check out these repositories! 👇</h3>
