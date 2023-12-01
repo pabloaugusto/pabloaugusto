@@ -1,6 +1,19 @@
-<h1 align="center">Hey there 👋</h1>
-<br />
-<br />
+ # About me 👋
+ 
+<p>
+ <img align="right" width="200" src="/.assets/luigi.png" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy Product Managment, SEO, Data Analytics and DEV <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: pablo@pabloaugusto.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/pabloaugusto/pabloaugusto/issues)
+
+</p>
+
+<br/>
+<br/>
+<br/>
+
 
 <!--
 <p align="left">
