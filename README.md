@@ -66,7 +66,7 @@
 <p align="center">
  <img height="160em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pabloaugusto&theme=merko&show_icons=true" />
 &nbsp;&nbsp;&nbsp;
-  <img height="160em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloaugusto&theme=merko&langs_count=8&layout=compact" />
+  <!-- <img height="160em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloaugusto&theme=merko&langs_count=8&layout=compact" /> -->
 </p>
 
 <p align="center">
