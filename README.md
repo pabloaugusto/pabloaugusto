@@ -1,7 +1,7 @@
  # About me 👋
  
 <p>
- <img align="right" width="200" src="/.assets/luigi.png" alt="Coding gif" />
+ <img align="right" width="200" src="/.assets/mario-luigi.gif" alt="Mario & Luigi Dancing" />
   
  ✌️ &emsp; Enjoy Product Managment, SEO, Data Analytics and DEV <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
