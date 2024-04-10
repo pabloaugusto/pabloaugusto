@@ -57,6 +57,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Google Analytics 4 &lpar;GA4&rpar; x AMP](https://pabloaugusto.com/google-analytics-4-ga4-amp/)
+- [Hello world!](https://pabloaugusto.com/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
