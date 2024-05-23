@@ -56,7 +56,7 @@
 ## Latest Articles 📝
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Analytics 4 &lpar;GA4&rpar; x AMP](https://pabloaugusto.com/google-analytics-4-ga4-amp/)
+- [GA4 x AMP](https://pabloaugusto.com/ga4-amp/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
