@@ -6,14 +6,11 @@
  ✌️ &emsp; Enjoy Product Managment, SEO, Data Analytics and DEV <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: pablo@pabloaugusto.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/pabloaugusto/pabloaugusto/issues)
+ 💬 &emsp; Ask me about anything [here](https://github.com/pabloaugusto/pabloaugusto/issues)<br/><br/>
  ☸️ &emsp; Kubernetes enthusiast
- 
 
 </p>
 
-<br/>
-<br/>
 <br/>
 
 
